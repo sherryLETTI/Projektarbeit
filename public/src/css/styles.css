@@ -1,0 +1,20 @@
+body {
+  background-color: #c9ebff;
+}
+
+.hiking-img {
+  max-width: 15%;
+  max-height: 15%;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#map {
+  height: 1000px;
+  width: 100%;
+}
