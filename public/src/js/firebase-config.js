@@ -1,5 +1,5 @@
 var firebaseConfig = {
-    apiKey: "AIzaSyBuHjCrYHJ4-yrSmRsk6QvnsxZP5pGNrdY",
+    apiKey: "SECRETKEY",
     authDomain: "seekhike.firebaseapp.com",
     projectId: "seekhike",
     storageBucket: "seekhike.appspot.com",
